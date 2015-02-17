@@ -1,0 +1,22 @@
+{
+  "name": "udu-merge",
+  "version": "0.1.0",
+  "author": "ududes <dev@udu.nu>",
+  "description": "A customizable algorithm for use with lodash's _.merge function",
+  "contributors": [
+    {
+      "name": "Bruce Clounie",
+      "email": "bruce.clounie@gmail.com"
+    }
+  ],
+  "main": "udu-merge.js",
+  "keywords": [
+    "merge"
+  ],
+  "dependencies": {
+    "lodash": ">=2.5.x"
+  },
+  "engines": {
+    "node": ">=0.10.25"
+  }
+}
