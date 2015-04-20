@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "author": "ududes <dev@udu.nu>",
   "description": "A customizable algorithm for use with lodash's _.merge function",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/uduinc/udu-merge"
+	},
   "contributors": [
     {
       "name": "Bruce Clounie",
